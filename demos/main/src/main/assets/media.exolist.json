@@ -1,5 +1,22 @@
 [
   {
+    "name": "asp stream test",
+    "samples": [
+      {
+        "name":"a normal h264",
+        "uri": "/sdcard/normal.mp4"
+      },
+      {
+        "name":"asp h264",
+        "uri": "/sdcard/asp-demo1.mp4"
+      },
+      {
+        "name":"asp vp8",
+        "uri": "/sdcard/asp-demo2.mp4"
+      }
+    ]
+  },
+  {
     "name": "YouTube DASH",
     "samples": [
       {
